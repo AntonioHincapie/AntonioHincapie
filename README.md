@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Antonio 👋
 
-<!--
-**AntonioHincapie/AntonioHincapie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning at [Microverse](https://github.com/microverseinc)
 
-Here are some ideas to get you started:
+- 🔭 I’m use to work on Geological Industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on JavaScript and HTML projects
+
+- 📫 How to reach me: [Linked in](https://www.linkedin.com/in/marco-hincapi%C3%A9-7a76751a3/) and marcohincapiem@gmail.com.
+
+JavaScript ReactJS NodeJS HTML5 CSS3 Bootstrap NPM Git
+
+Stadistics:
+
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioHincapie&show_icons=true&theme=dark)](https://github.com/AntonioHincapie/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioHincapie&layout=compact&show_icons=true&theme=dark)](https://github.com/AntonioHincapie/github-readme-stats)
