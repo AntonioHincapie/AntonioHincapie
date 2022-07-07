@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on JavaScript and HTML projects
 
-- 📫 How to reach me: [Linked in](https://www.linkedin.com/in/marco-hincapi%C3%A9-7a76751a3/) and marcohincapiem@gmail.com.
+- 📫 How to reach me: [Linked in](https://www.linkedin.com/in/antoniohincapie/) and marcohincapiem@gmail.com.
 
 ### Socials
 
